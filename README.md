@@ -1,3 +1,6 @@
+## 公告
+- **本分支项目不再维护
+- 原作者项目 https://github.com/kasuganosoras/Pigeon
 # Pigeon
 咕咕咕，咕咕咕咕咕？
 
