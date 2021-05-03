@@ -1,4 +1,4 @@
-## 公告
+# 公告
 - **本分支项目不再维护**
 - 原作者项目 https://github.com/kasuganosoras/Pigeon
 # Pigeon
